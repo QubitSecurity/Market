@@ -118,8 +118,9 @@ xychart-beta
 ### 1. 현재 시장 규모 (4조 원)
 현재 정보보안 시장 규모가 4조 원에서 시작하여 연평균 15% 성장을 지속하면, 10년 후에 전체 시장은 약 12조 원에 도달할 것입니다.
 
+Projected Market Size:
 \[
-\text{최종 시장 규모} = \text{현재 시장 규모} \times (1 + 0.15)^{10} \approx 4 \times (4.0456) = 12.137조 원
+\text{Projected Market Size} = \text{Current Market Size} \times (1 + 0.15)^{10} \approx 4 \times 4.0456 = 12.137 \text{ trillion KRW}
 \]
 
 ### 2. 온프레미스와 클라우드 SaaS 비율 예측
