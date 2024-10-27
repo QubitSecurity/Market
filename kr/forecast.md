@@ -43,6 +43,26 @@
 
 ---
 
+```mermaid
+%% Korean Information Security Service Market Growth Outlook using approximate bar and line chart
+
+xychart-beta
+    title "Korean Information Security Service Market Outlook"
+    x-axis [Year 0, Year 1, Year 2, Year 3, Year 5, Year 10]
+    y-axis "Market Size (Trillion KRW)" 4 --> 12
+    
+    bar [4, 4.6, 5.3, 6, 8, 12]
+    line [4, 4.6, 5.3, 6, 8, 12]
+```
+
+**설명:**
+
+- **Current Market Size**: 현재 시장 규모는 4조 원입니다.
+- **Year 1-3**: 연평균 15% 성장하여 3년 후 약 6조 원에 도달할 것으로 예상됩니다.
+- **Year 5-10**: 중소기업 참여 확대에 따라 10년 후 약 12조 원에 도달할 수 있습니다.
+
+---
+
 **6. 결론**
 
 클라우드 SaaS로의 전환은 중소기업의 정보보안 서비스 도입을 촉진하여 전체 시장 규모를 크게 확대할 것입니다. 이는 정보보안 산업의 새로운 성장 동력이 될 뿐만 아니라 국가 전체의 사이버 보안 역량 강화에도 기여할 것으로 기대됩니다.
