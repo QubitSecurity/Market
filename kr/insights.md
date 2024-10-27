@@ -1,4 +1,4 @@
-# Korea InfoSec Market Insights
+# Product Segmentation
 
 ```mermaid
 pie title 한국 정보보안 시장 구성
