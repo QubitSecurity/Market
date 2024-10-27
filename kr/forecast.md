@@ -118,7 +118,13 @@ xychart-beta
 ### 1. 현재 시장 규모 (4조 원)
 현재 정보보안 시장 규모가 4조 원에서 시작하여 연평균 15% 성장을 지속하면, 10년 후에 전체 시장은 약 12조 원에 도달할 것입니다.
 
-Projected Market Size:
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+### Korean Information Security Market Growth Calculation
+
+Here’s the formula for calculating the projected market size:
+
 \[
 \text{Projected Market Size} = \text{Current Market Size} \times (1 + 0.15)^{10} \approx 4 \times 4.0456 = 12.137 \text{ trillion KRW}
 \]
